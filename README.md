@@ -161,9 +161,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Email: [shishirroy1310@gmail.com](shishirroy1310@gmail.com)
+LinkedIn: [Shishir Roy](https://www.linkedin.com/in/shishir-roy-3937b7120/)
+Project Link: [https://github.com/shishir1310/shoppingkori-master](https://github.com/shishir1310/shoppingkori-master)
 
 
 
