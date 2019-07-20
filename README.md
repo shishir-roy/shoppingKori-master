@@ -183,6 +183,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
 [license-url]: https://choosealicense.com/licenses/mit
-[linkedin-shield]: https://www.linkedin.com/in/shishir-roy-3937b7120/
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-shield]: img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/shishir-roy-3937b7120/
 [product-screenshot]: https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/screenshot.png
