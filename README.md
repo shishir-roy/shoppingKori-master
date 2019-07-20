@@ -1,3 +1,13 @@
+<!--
+*** Thanks for checking out this README Template. If you have a suggestion that would
+*** make this better please fork the repo and create a pull request or simple open
+*** an issue with the tag "enhancement".
+*** Thanks again! Now go create something AMAZING! :D
+-->
+
+
+
+
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -159,7 +169,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [Rajan Saha Raju](https://github.com/Rajan-sust)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Pages](https://pages.github.com)
@@ -183,6 +193,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
 [license-url]: https://choosealicense.com/licenses/mit
-[linkedin-shield]: img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/shishir-roy-3937b7120/
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/screenshot.png
