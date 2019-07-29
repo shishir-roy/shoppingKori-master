@@ -105,7 +105,7 @@ Technology is supposed to make our life easier and convenient. So I embarked upo
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To set this project locally follow the following instructions.
+To set this project locally follow the following instructions:
 ### Prerequisites
 
 Two things that need to installed in the machine.
