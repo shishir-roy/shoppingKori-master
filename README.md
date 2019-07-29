@@ -27,23 +27,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/shishir1310/shoppingkori-master">
     <img src="https://shop.werbangali.com/logo/sm/wrb_shop_wide.png" alt="Logo" width="500pixels" height="200pixels">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">shoppingKori.com</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    I embarked upon a journey with little resource, little hope but with enormous zeal... 
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/shishir1310/shoppingkori-master"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/shishir1310/shoppingkori-master">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/shishir1310/shoppingkori-master/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/shishir1310/shoppingkori-master/issues">Request Feature</a>
   </p>
 </p>
 
