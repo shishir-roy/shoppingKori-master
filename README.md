@@ -69,7 +69,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/shishir1310/shoppingkori-master/blob/master/ecommerce/client/images/shopping.png)
+[![Product Name Screen Shot][product-screenshot]](https://drive.google.com/file/d/1_Rh8MBXeSOb5nMbZ2Sgcdr2P54fKIhYj/view)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
