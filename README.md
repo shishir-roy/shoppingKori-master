@@ -69,7 +69,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-#Landing Page
+# Landing Page
 
 <img src="ecommerce/client/images/shopping.png" width="1156pixel" height="762pixel">
 
