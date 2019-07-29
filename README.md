@@ -98,28 +98,40 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
+Two things that need to installed in the machine.
+* Node.js
+* MongoDB
 
 ### Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
 ```sh
-git clone https:://github.com/your_username_/Project-Name.git
+git clone https://github.com/shishir1310/shoppingkori-master.git
 ```
-3. Install NPM packages
+3. Install LoopBack 4 CLI
 ```sh
-npm install
+$ npm install -g @loopback/cli
 ```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
+4. Create a new project
+```sh
+$ lb4 app
 ```
-
+Answer the prompts as follows.
+` [?] Project name: getting-started
+[?] Project description: Getting started tutorial
+[?] Project root directory: (getting-started)
+[?] Application class name: StarterApplication
+[?] Select project build settings: Enable tslint, Enable prettier, Enable mocha, Enable loopbackBuild`
+5. Starting the project
+``` sh
+$ cd getting-started
+$ npm start
+```
+6. Test your application
+```sh
+Visit http://127.0.0.1:3000/ecommerce
+```
 
 
 <!-- USAGE EXAMPLES -->
