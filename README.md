@@ -117,8 +117,8 @@ $ npm install -g @loopback/cli
 ```sh
 $ lb4 app
 ```
-Answer the prompts as follows.
-`  [?] Project name: getting-started   
+Answer the prompts as follows. \
+`  [?] Project name: getting-started   \
 [?] Project description: Getting started tutorial <br/>
 [?] Project root directory: (getting-started)
 [?] Application class name: StarterApplication
