@@ -68,7 +68,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+ShoppingKori is an online shopping application which offers a digital platform for
+vendors as well as customers for selling and buying Bengali Products.
 ### Landing Page
 
 <img src="ecommerce/client/images/landing.png" width="1315pixel" height="624pixel">
@@ -94,8 +95,7 @@
 
 <img src="ecommerce/client/images/cart.png" width="1138pixel" height="728pixel">
 
-ShoppingKori is an online shopping application which offers a digital platform for
-vendors as well as customers for selling and buying Bengali Products.
+
 
 ### Built With
 * [LoopBack](https://loopback.io/): LoopBack is a highly extensible, open-source Node.js framework based on Express that enables to quickly create APIs and microservices composed from backend systems such as databases and REST services. 
