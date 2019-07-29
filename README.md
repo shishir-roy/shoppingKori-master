@@ -95,7 +95,7 @@ vendors as well as customers for selling and buying Bengali Products.
 
 <img src="ecommerce/client/images/cart.png" width="1138pixel" height="728pixel">
 
-
+Technology is supposed to make our life easier and convenient. So I embarked upon a journey to complete this project with enormous zeal. Having taken a few gallant strides forward, I took my time, I sat back to contemplate what more I could develop to make our life easier and comfortable. As a person, I do not aim at confining ourselves within the realm of existing technology. So I hereby call all the creative, thinking minds in open arms to contribute in this project and enrich myself with myriads of creative excellence and challenge myself to develop something fresh everyday and stand out from the rest.
 
 ### Built With
 * [LoopBack](https://loopback.io/): LoopBack is a highly extensible, open-source Node.js framework based on Express that enables to quickly create APIs and microservices composed from backend systems such as databases and REST services. 
