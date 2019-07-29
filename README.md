@@ -143,7 +143,7 @@ See the [open issues](https://github.com/shishir1310/shoppingkori-master/issues)
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. So I hereby call all the creative, thinking minds in open arms to contribute in this project and enrich myself with myriads of creative excellence and challenge myself to develop something fresh everyday and stand out from the rest.
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create.
 Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
