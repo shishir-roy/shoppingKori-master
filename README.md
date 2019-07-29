@@ -72,9 +72,16 @@
 ### Landing Page
 
 <img src="ecommerce/client/images/landing.png" width="1315pixel" height="624pixel">
+
+
 ### Product List
 <img src="ecommerce/client/images/shopping.png" width="1156pixel" height="762pixel">
+
+
 ### Product Details
+
+<img src="ecommerce/client/images/shopping.png" width="1156pixel" height="762pixel">
+
 ### You Might Also Like
 
 ### Login
