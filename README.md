@@ -118,11 +118,13 @@ $ npm install -g @loopback/cli
 $ lb4 app
 ```
 Answer the prompts as follows. \
-`  [?] Project name: getting-started   /
-[?] Project description: Getting started tutorial <br/>
-[?] Project root directory: (getting-started)
-[?] Application class name: StarterApplication
-[?] Select project build settings: Enable tslint, Enable prettier, Enable mocha, Enable loopbackBuild`
+```sh
+[?] Project name: getting-started  
+[?] Project description: Getting started tutorial  
+[?] Project root directory: (getting-started)  
+[?] Application class name: StarterApplication  
+[?] Select project build settings: Enable tslint, Enable prettier, Enable mocha, Enable loopbackBuild  
+```
 5. Starting the project
 ``` sh
 $ cd getting-started
