@@ -104,33 +104,20 @@ Two things that need to installed in the machine.
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
 ```sh
 git clone https://github.com/shishir1310/shoppingkori-master.git
 ```
-3. Install LoopBack 4 CLI
+2. Install LoopBack 4 CLI
 ```sh
 $ npm install -g @loopback/cli
 ```
-4. Create a new project
-```sh
-$ lb4 app
-```
-Answer the prompts as follows. \
-```sh
-[?] Project name: getting-started  
-[?] Project description: Getting started tutorial  
-[?] Project root directory: (getting-started)  
-[?] Application class name: StarterApplication  
-[?] Select project build settings: Enable tslint, Enable prettier, Enable mocha, Enable loopbackBuild  
-```
-5. Starting the project
+3. Change the directory for each three different project and start them at different ports.
 ``` sh
 $ cd getting-started
 $ npm start
 ```
-6. Test your application
+4. Test your application
 ```sh
 Visit http://127.0.0.1:3000/ecommerce
 ```
