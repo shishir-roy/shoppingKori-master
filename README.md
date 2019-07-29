@@ -69,10 +69,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-# Landing Page
+### Landing Page
 
 <img src="ecommerce/client/images/shopping.png" width="1156pixel" height="762pixel">
+### Product List
+<img src="ecommerce/client/images/shopping.png" width="1156pixel" height="762pixel">
+### Product Details
+### You Might Also Like
 
+### Login
+<img src="ecommerce/client/images/login.png" width="1187pixel" height="588pixel">
+### Cart
+<img src="ecommerce/client/images/cart.png" width="1138pixel" height="728pixel">
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
 Here's why:
